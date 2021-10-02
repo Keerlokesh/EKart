@@ -1,2 +1,3 @@
 # EKart
-EKart Shoping website for Buying pruducts
+EKart Shopping website for Buying pruducts:
+currently underdevelopment :)
